@@ -26,3 +26,4 @@ dist-ssr
 # my ignore
 # claspのトークンをgitpodで使うとき毎回homeがｻﾗになるので退避用
 .clasprc.json
+.clasp.json
